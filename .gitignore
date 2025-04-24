@@ -1,0 +1,33 @@
+.vs/
+.vsconfig
+Assembly*
+Builds/VR Diatom Exhibition_BurstDebugInformation_DoNotShip/
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+Temp/
+Unity.XR.*
+UserSettings/
+VRDiatomExhibition.sln
+Assets/_Course Library/
+Assets/3D Laboratory Environment with Appratus/
+Assets/FreeLabAssets/
+Assets/iPoly3D/
+Assets/Samples/
+Assets/Settings/
+Assets/TextMesh Pro/
+Assets/XR/
+Assets/XRI/
+Assets/*meta
+Assets/*asset
+Assets/*controller
+Assets/*anim
+Assets/My_Assets/Animations/
+Assets/My_Assets/*meta
+Assets/My_Assets/Images/*meta
+Assets/My_Assets/Materials/
+Assets/My_Assets/Prefabs/
+Assets/My_Assets/Scenes/
+Assets/My_Assets/Scripts/*meta

@@ -1,0 +1,9 @@
+Sand materials:
+Yughues Free Sand Materials	Nobiax / Yughues
+https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-sand-materials-12964
+Standard Unity Asset Store EULA - Extension Asset
+
+Sediment core image:
+Hannes Grobe
+https://en.wikiversity.org/wiki/File:PS1920-1_0-750_sediment-core_hg.jpg
+Creative Commons Attribution 3.0 Unported license
