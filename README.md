@@ -6,6 +6,7 @@ Move along the red carpet using the grip button to teleport.
 
 ## To do list (v0.1.0)
 * Optimisation
+* Add other asset credits to AssetCredits.txt
 * Rewrite text
 * Add more props to the lobby area
 * Improve lighting

@@ -7,3 +7,17 @@ Sediment core image:
 Hannes Grobe
 https://en.wikiversity.org/wiki/File:PS1920-1_0-750_sediment-core_hg.jpg
 Creative Commons Attribution 3.0 Unported license
+
+Computer props:
+LowPoly Server Room Props	iPoly3D
+https://assetstore.unity.com/packages/3d/environments/lowpoly-server-room-props-197268
+Standard Unity Asset Store EULA - Extension Asset
+
+Beaker prop:
+Chemistry Lab Items Pack	Animatics Studio
+https://assetstore.unity.com/packages/3d/environments/chemistry-lab-items-pack-220212
+Standard Unity Asset Store EULA - Extension Asset
++
+Free Laboratory Pack	StormBringer Studios
+https://assetstore.unity.com/packages/3d/props/tools/free-laboratory-pack-123782
+Standard Unity Asset Store EULA - Extension Asset
